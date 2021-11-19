@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EspectroDeRespuesta.Library", "EspectroDeRespuesta.Library\EspectroDeRespuesta.Library.csproj", "{522EA177-8078-4677-9596-96545A93E58C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EspectroDeRespuesta.Console", "EspectroDeRespuesta.Console\EspectroDeRespuesta.Console.csproj", "{927C30B8-C1C2-4F8F-A499-6A9368CCDF2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{522EA177-8078-4677-9596-96545A93E58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522EA177-8078-4677-9596-96545A93E58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522EA177-8078-4677-9596-96545A93E58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522EA177-8078-4677-9596-96545A93E58C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{927C30B8-C1C2-4F8F-A499-6A9368CCDF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927C30B8-C1C2-4F8F-A499-6A9368CCDF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927C30B8-C1C2-4F8F-A499-6A9368CCDF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927C30B8-C1C2-4F8F-A499-6A9368CCDF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7657F1B-9B20-407B-8071-5A872EBAED67}
+	EndGlobalSection
+EndGlobal
